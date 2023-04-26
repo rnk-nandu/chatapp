@@ -53,7 +53,7 @@ public class loginpage1{
 
 
 
-        ImageIcon i=new ImageIcon("C:\\Users\\Kish\\Downloads\\img4.png");
+        ImageIcon i=new ImageIcon("img.png");
         Image img = i.getImage();
         Image imageScale = img.getScaledInstance(300,170,Image.SCALE_SMOOTH);
         ImageIcon scaledImage = new ImageIcon(imageScale);
